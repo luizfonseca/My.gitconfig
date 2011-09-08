@@ -1,0 +1,20 @@
+[user]
+	name = Luiz Fonseca
+	email = MY_EMAIL_NOT 
+[alias]
+	gs = !git status
+	a = !git add . -vA
+	gc = !git commit
+	gck = !git checkout
+	gl = !git log
+	pom = push origin master 
+[core]
+	editor = vi
+[color]
+	diff = auto
+	grep = auto
+	interactive = auto
+	status = auto
+	branch = auto
+[merge]
+	tool = treesome
